@@ -1,0 +1,73 @@
+body {
+    background-color: grey;
+    background-image: url("../assets/images/coffee.jpeg");
+    background-size:cover;
+    font-family: "Ubuntu",sans-serif;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: #222222;
+}
+body>div{
+    text-align: center;
+}
+
+.top{
+    margin: 80px;
+}
+.top>nav {
+    margin-top: 50px;
+}
+
+nav>a {
+    margin:10px;
+    padding:10px;
+}
+h1 {
+    font-size: 40px;
+    margin-bottom: 5px;
+
+}
+h3 {
+    margin-top: 5px;
+}
+
+nav>a, .opq_back{
+
+    color: #48705a;
+    border: 3px solid #2f4f4f;
+    border-radius: 5px;
+    background-color: rgba(46, 77, 60, 0.2);
+}
+
+.opq_back {
+    margin-top: 50px;
+    color: #222222;
+    border-radius: 10px;
+    padding: 3% 5%;
+    text-align: left;
+}
+.opq_white {
+    margin: 30px 20px;
+    background-color: #000;
+    border: 2px solid #000;
+    border-radius: 40px;
+    padding: 2% 5%;
+    text-align: left;
+    background-color: rgba(250, 250, 250, 0.2);
+}
+.opq_white p{
+    margin-left: 2em;
+}
+.opq_white a{
+    color: #222222;
+}
+.opq_white h3 {
+    margin-left: 1em;
+}
+
+
+
